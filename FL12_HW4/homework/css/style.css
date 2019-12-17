@@ -1,0 +1,139 @@
+main {
+      margin: 0 auto;
+      width: 900px;
+    }
+.menu{
+float: right;
+margin-right: 150px;
+margin-bottom: 0;
+}
+ul {
+  list-style: none; 
+  margin: 0; 
+  padding-left: 0;
+  word-spacing: 25px;
+  position: relative; 
+	bottom: 40px; 
+	}
+a {
+	text-decoration: none;
+	}
+li {
+	 display: inline;
+	 }
+.class1{
+	font-size: 25px;
+	font-weight: bold;
+	color: #777;
+	margin-left: 150px;
+	position: relative; 
+	top: 7px; 
+}
+
+.card_img{
+	width: 100%;
+	height: auto;
+	background-size: cover;
+}
+.image {
+    position: relative;
+    width: 100%; 
+    }
+.ps1 {
+	position: absolute;
+    top: 270px;
+    left: 310px;
+    color: white;
+    font-size: 60px;
+}
+.ps2{
+	position: absolute;
+	font-size: 20px;
+	color: #bfba55;
+	top: 390px;
+  left: 555px;
+}
+.ps3{
+	position: absolute;
+	font-size: 20px;
+	color: #777;
+	top: 450px;
+  left: 570px;
+  border: 0;
+  border-radius: 80px/100px;
+  background: white;
+  padding: 10px;
+}
+.card-image1{
+	width: 700px;
+	height: 500px;
+	display: block;
+	margin: 0 auto;
+	padding-top: 6%;
+}
+.make-front{
+margin-left: 297px;
+padding-top: 15px;
+}
+.auther-image{
+	border:0;
+	border-radius:  160px 160px 160px 160px; 
+	width: 40px;
+	height: 40px;
+	margin-left: 295px;
+}
+.JenL{
+	white-space: pre;
+	color: #777;
+	margin-left: 340px;
+	position: relative;
+	bottom: 50px;
+}
+.Text-one{
+	color: #777;
+	text-align: left;
+	margin-left: 295px;
+	width: 54%;
+	position: relative;
+	bottom: 35px;
+}
+.ps4{
+	font-size: 20px;
+	color: #777;
+  border: 1px solid #777;
+  border-radius: 80px/100px;
+  background: white;
+  padding: 10px;
+  width: 150px;
+  margin-left: 295px;
+  position: relative;
+	bottom: 25px;
+}
+.line{
+  width: 710px;
+	display: block;
+	margin: 0 auto;
+}
+.footer{
+	width: 100%;
+	height: auto;
+	background: #000;
+	display: block;
+	margin: 0 auto;
+	color: #777;
+padding:50px;  
+text-align:  left; 
+column-count: 2; 
+column-gap: 100px; 
+}
+.ColorText{
+	color: #FFFFFF;
+}
+#container{
+	min-width: 900px;
+}
+.footer_one{
+	position: relative;
+	bottom: 18px;
+	margin-left: 200px;
+}
