@@ -1,0 +1,272 @@
+/*
+ * Feel free to change name of colors if you need it
+ * Feel free to add new colors if you need it
+ */
+:root {
+  -bg-color--dark: #0b192f;
+  -bg-color--header: #024161;
+  -link: #fff;
+  -link--hover: #1f52a4;
+  -bg-footer-color: #024161;
+}
+
+body {
+  font-family: roboto;
+  background: #0b192f;
+}
+/* Your styles go here */
+
+.head{
+  background-image: url(../img/post0.jpg);
+  width: 70%;
+  height: 300px;
+  background-size: cover;
+   margin-bottom: 10px;
+   color: #ffffff;
+   margin: 0 auto;
+
+}
+.footer{
+  background: #024161;
+  width: 68%;
+  height: 50px;
+  margin: 0 auto;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 16px 10px;
+  font-size: 14px;
+  position: relative;
+  bottom: 1306px;
+}
+   *{
+    padding: 0;
+    margin: 0;
+   }
+   li{
+    list-style: none;
+    display: inline;
+   }
+   a{
+    text-decoration: none;
+   }
+   header{
+    background: #024161;
+    padding: 27px 0;
+     width: 70%;
+     margin: 0 auto;
+   }
+   .header-container{
+    width: 850px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+   }
+   .header-container a{
+    color: #ffffff;
+    font-size: 16px;
+    margin-right: 23px;
+    padding: 27px 6px;
+   }
+   .header-container a:hover{
+    background: #3261ae;
+   }
+   ul{
+    display: flex;
+   }
+   .class1{
+    font-size: 16px;
+    color: #ffffff;
+   }
+   span{
+    color: #d12767;
+   }
+   .ps1{
+    position: relative;
+    top: 200px;
+    left: 30px;
+    color: #ffffff;
+    font-size: 25px;
+   }
+   .ps2{
+  font-size: 10px;
+  color: #ffffff;
+   position: relative;
+    top: 210px;
+    left: 30px;
+    white-space: pre;
+   }
+   .img1 img{
+    width: 290px;
+    height: 160px;
+    position: relative;
+    left: 194px;
+    margin-top: 10px;
+   }
+  .post-1 {
+  background: #9d27b0;
+  color: #ffffff;
+  border: 1px;
+  width: 240px;
+  height: 121px;
+  position: relative;
+  left: 485px;
+  bottom: 164px;
+  font-size: 10px;
+  padding: 20px 29px;
+}
+.Text1{
+  font-size: 19px;
+}
+.Text2{
+  font-size: 10px;
+}
+.Text3{
+  color: #af4ebe;
+  font-size: 20px;
+  position: absolute;
+  left: 250px;
+  bottom: 100px;
+}
+.post-2 {
+  background: #9bb800;
+  color: #ffffff;
+  border: 1px;
+  width: 233px;
+  height: 121px;
+  position: relative;
+  left: 194px;
+  bottom: 165px;
+  padding: 20px 29px;
+  text-align: right;
+}
+.Text4{
+  color: #a9c225;
+  font-size: 20px;
+  position: absolute;
+  left: 30px;
+  bottom: 100px;
+}
+.img2 img{
+    width: 298px;
+    height: 160px;
+    position: relative;
+    left: 485px;
+  bottom: 325px;
+   }
+.img3 img{
+  width: 291px;
+    height: 160px;
+    position: relative;
+    left: 194px;
+    bottom: 329px;
+}
+  .post-3 {
+  background: #ed5120;
+  color: #ffffff;
+  border: 1px;
+  width: 240px;
+  height: 121px;
+  position: relative;
+  left: 485px;
+  bottom: 493px;
+  font-size: 10px;
+  padding: 20px 29px;
+} 
+.Text5{
+  color: #db7456;
+  font-size: 20px;
+  position: absolute;
+ left: 250px;
+  bottom: 100px;
+}
+.post-4 {
+  background: #9d27b0;
+  color: #ffffff;
+  border: 1px;
+  width: 233px;
+  height: 121px;
+  position: relative;
+  left: 194px;
+  bottom: 494px;
+  padding: 20px 29px;
+  text-align: right;
+}
+.Text6{
+  color: #af4ebe;
+  font-size: 20px;
+  position: absolute;
+  left: 30px;
+  bottom: 100px;
+}
+.img4 img{
+    width: 298px;
+    height: 160px;
+    position: relative;
+    left: 485px;
+  bottom: 654px;
+   }
+   .post-5 {
+  background: #2d95bb;
+  color: #ffffff;
+  border: 1px;
+  width: 531px;
+  height: 90px;
+  position: relative;
+  left: 194px;
+  bottom: 658px;
+  padding: 20px 29px;
+}
+.Text7{
+  color: #5aacca;
+  font-size: 20px;
+  position: absolute;
+  left: 550px;
+  bottom: 75px;
+}
+.post-6 img{
+    width: 298px;
+    height: 160px;
+    position: relative;
+    left: 815px;
+  bottom: 1429px;
+   }
+   .post-7{
+    border: 2px;
+    width: 258px;
+    height: 140px;
+    background: #ffffff;
+    text-align: left;
+    position: relative;
+    left: 815px;
+    bottom:1433px;
+    padding: 10px 20px;
+   }
+   .ggg1{
+    font-size: 22px;
+   }
+   .post-8 img{
+    width: 298px;
+    height: 160px;
+    position: relative;
+    left: 815px;
+  bottom: 1433px;
+   }
+   .post-9{
+    border: 2px;
+    width: 258px;
+    height: 140px;
+    background: #ffffff;
+    text-align: left;
+    position: relative;
+    left: 815px;
+    bottom:1438px;
+    padding: 10px 20px;
+   }
+
+   @media (max-width: 480px) {
+    body{
+      width: 50%;
+    }
+
+   }
