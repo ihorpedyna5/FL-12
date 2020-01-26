@@ -1,0 +1,27 @@
+.folder, .file {
+  display: inline-block;
+  width: 100%;
+}
+
+span {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 25px;
+}
+
+#root span:hover {
+  background-color: #e6e6e6;
+}
+
+.hide > div, .hide > span.ph {
+  display: none;
+}
+
+.folder > div, span.ph  {
+  margin-left: 10px;
+}
+
+span.ph {
+  font-style: italic;
+}
